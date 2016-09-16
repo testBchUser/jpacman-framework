@@ -1,5 +1,8 @@
 ![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?branch=master)
 
+
+[![build Status](https://bettercodehub.com/testBchUser/jpackman-framework)]
+
 JPacman-Framework
 =================
 
